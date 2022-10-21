@@ -1,0 +1,17 @@
+C:\Users\Carlos\source\repos\EcoMaps\bin\Debug\EcoMaps.exe.config
+C:\Users\Carlos\source\repos\EcoMaps\bin\Debug\EcoMaps.exe
+C:\Users\Carlos\source\repos\EcoMaps\bin\Debug\EcoMaps.pdb
+C:\Users\Carlos\source\repos\EcoMaps\obj\Debug\EcoMaps.csproj.AssemblyReference.cache
+C:\Users\Carlos\source\repos\EcoMaps\obj\Debug\MainWindow.g.cs
+C:\Users\Carlos\source\repos\EcoMaps\obj\Debug\Matricula.g.cs
+C:\Users\Carlos\source\repos\EcoMaps\obj\Debug\App.g.cs
+C:\Users\Carlos\source\repos\EcoMaps\obj\Debug\EcoMaps_MarkupCompile.cache
+C:\Users\Carlos\source\repos\EcoMaps\obj\Debug\EcoMaps_MarkupCompile.lref
+C:\Users\Carlos\source\repos\EcoMaps\obj\Debug\MainWindow.baml
+C:\Users\Carlos\source\repos\EcoMaps\obj\Debug\Matricula.baml
+C:\Users\Carlos\source\repos\EcoMaps\obj\Debug\EcoMaps.g.resources
+C:\Users\Carlos\source\repos\EcoMaps\obj\Debug\EcoMaps.Properties.Resources.resources
+C:\Users\Carlos\source\repos\EcoMaps\obj\Debug\EcoMaps.csproj.GenerateResource.cache
+C:\Users\Carlos\source\repos\EcoMaps\obj\Debug\EcoMaps.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\source\repos\EcoMaps\obj\Debug\EcoMaps.exe
+C:\Users\Carlos\source\repos\EcoMaps\obj\Debug\EcoMaps.pdb
